@@ -12,13 +12,12 @@ rpg요소가 있는 로그라이크 게임을 제작중임
 
 ## 기록
 
-▼인게임 구상
+▼초기 구상
 ![인게임 구상](https://github.com/BrainlessMan901/003/assets/159418229/ddaf4128-66bb-409f-acc2-91f2c5fb56ce)
 
 캐릭터 움직임에 따라 배경이 바뀌는 기능을 만들었음.
 
-![Uploading jumpgame2024-02-1106-31-39-ezgif.com-video-to-gif-converter.gif…]()
-
+![jumpgame2024-02-1106-31-39-ezgif com-video-to-gif-converter](https://github.com/BrainlessMan901/003/assets/159418229/acea8d65-62d1-4b53-a06e-008bf0b5c261)
 
 프레임 내에서의 좌표가 아니라 게임 내의 좌표를 만들었음. 캐릭터를 따라가게 하는 카메라의 좌표에 -1을 곱하고 게임 내의 좌표를 더해서 구현했음.
 

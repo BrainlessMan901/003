@@ -17,7 +17,8 @@ rpg요소가 있는 로그라이크 게임을 제작중임
 
 캐릭터 움직임에 따라 배경이 바뀌는 기능을 만들었음.
 
-![image](https://github.com/BrainlessMan901/003/assets/159418229/6f4d4a56-482b-49b8-8b04-e091eeecc54c)
+![Uploading jumpgame2024-02-1106-31-39-ezgif.com-video-to-gif-converter.gif…]()
+
 
 프레임 내에서의 좌표가 아니라 게임 내의 좌표를 만들었음. 캐릭터를 따라가게 하는 카메라의 좌표에 -1을 곱하고 게임 내의 좌표를 더해서 구현했음.
 
